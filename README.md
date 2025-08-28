@@ -370,11 +370,4 @@ sudo chown -R www-data:www-data /var/www/omeka-s/files
   - [Let’s Encrypt SSL](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu)  
   - [DNS and Domains](https://docs.digitalocean.com/products/networking/dns/getting-started/dns-registrars/)
 
----
 
-## License and Contributions
-
-This tutorial is provided under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).  
-You are free to share and adapt this material for any purpose, provided you give appropriate credit.
-
-Contributions are welcome! If you notice improvements, corrections, or have suggestions for making this guide clearer for non-technical users, please feel free to open an issue or submit a pull request.
