@@ -3,6 +3,8 @@
 This repository contains a step-by-step guide for installing [Omeka S](https://omeka.org/s/) on a [DigitalOcean Droplet](https://www.digitalocean.com/).  
 It is written with **students, scholars, and cultural heritage professionals** in mind — people who are experts in their own fields but may not have much technical background.  
 
+**Please note, this tutorial was designed for graduate students in the Cultural Heritage Informatics Initiative Graduate Fellowship.  When originally deployed, it was avaiable on the closed CHI Knowledgebase.  Its been moved to Github for public access**
+
 The tutorial is designed to do two things at once:
 1. Help you successfully install and run Omeka S.  
 2. Teach you the basics of how servers work, how to connect to them, and how software like Omeka S fits together with web servers, databases, and the command line.  
